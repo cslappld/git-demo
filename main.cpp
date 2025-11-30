@@ -1,8 +1,12 @@
+#include<iostream>
+
 int add(int a,int b)
 {
     return a+b;
 }
 int main()
 {
-   return  add(3,5);
+    using namespace std;
+    cout<<add(3,5)<<endl;
+    return 0;
 }
