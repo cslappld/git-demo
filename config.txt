@@ -1,1 +1,5 @@
+# 应用配置（test_b 版本）
 this is a test demo.
+mode=test_b
+log_level=info
+version=1.0.0-b
