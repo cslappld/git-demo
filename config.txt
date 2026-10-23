@@ -1,1 +1,5 @@
+# 应用配置（test_a 版本）
 this is a test demo.
+mode=test_a
+log_level=debug
+version=1.0.0-a
